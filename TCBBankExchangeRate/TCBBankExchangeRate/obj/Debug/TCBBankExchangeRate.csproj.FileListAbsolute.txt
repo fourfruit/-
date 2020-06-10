@@ -1,0 +1,10 @@
+C:\Users\sk.chen\source\repos\TCBBankExchangeRate\TCBBankExchangeRate\bin\Debug\TCBBankExchangeRate.exe.config
+C:\Users\sk.chen\source\repos\TCBBankExchangeRate\TCBBankExchangeRate\bin\Debug\TCBBankExchangeRate.exe
+C:\Users\sk.chen\source\repos\TCBBankExchangeRate\TCBBankExchangeRate\bin\Debug\TCBBankExchangeRate.pdb
+C:\Users\sk.chen\source\repos\TCBBankExchangeRate\TCBBankExchangeRate\obj\Debug\TCBBankExchangeRate.csprojAssemblyReference.cache
+C:\Users\sk.chen\source\repos\TCBBankExchangeRate\TCBBankExchangeRate\obj\Debug\TCBBankExchangeRate.Form1.resources
+C:\Users\sk.chen\source\repos\TCBBankExchangeRate\TCBBankExchangeRate\obj\Debug\TCBBankExchangeRate.Properties.Resources.resources
+C:\Users\sk.chen\source\repos\TCBBankExchangeRate\TCBBankExchangeRate\obj\Debug\TCBBankExchangeRate.csproj.GenerateResource.cache
+C:\Users\sk.chen\source\repos\TCBBankExchangeRate\TCBBankExchangeRate\obj\Debug\TCBBankExchangeRate.csproj.CoreCompileInputs.cache
+C:\Users\sk.chen\source\repos\TCBBankExchangeRate\TCBBankExchangeRate\obj\Debug\TCBBankExchangeRate.exe
+C:\Users\sk.chen\source\repos\TCBBankExchangeRate\TCBBankExchangeRate\obj\Debug\TCBBankExchangeRate.pdb
